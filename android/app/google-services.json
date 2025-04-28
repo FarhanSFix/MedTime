@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284522123604",
+    "project_id": "mini-project-74f3d",
+    "storage_bucket": "mini-project-74f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284522123604:android:74ddec8fb3fb2a124ff8c1",
+        "android_client_info": {
+          "package_name": "com.example.med_remember"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzma7oTYGSoI4lJUjOZcCGrgomQw3dUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284522123604:android:754bae16c2aeacc24ff8c1",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzma7oTYGSoI4lJUjOZcCGrgomQw3dUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
